@@ -20,7 +20,7 @@ Speech-to-Subtitle · Translation · Editing · Karaoke Effects · End to End
 
 ## 👋 Who We Are
 
-We are Guangzhou Shiner Software, the team behind **Sublyric**——
+We are Guangzhou ShineSoft, the team behind **Sublyric**——
 an AI-driven subtitle creation tool covering the full workflow from
 **speech transcription → translation → fine editing → karaoke effects → final export**,
 built for both professional editors and everyday users.
@@ -41,7 +41,7 @@ Feel free to use them or fork and adapt them:
 
 | Repository | Description |
 | --- | --- |
-| [sublyric-excel-toolkit](https://github.com/ShinerSoftware/sublyric-excel-toolkit) | Excel add-in for cleaning up and exporting bilingual subtitles (SRT/Word), companion tool for Sublyric |
+| [sublyric-excel-toolkit](https://github.com/ShineSoftware/sublyric-excel-toolkit) | Excel add-in for cleaning up and exporting bilingual subtitles (SRT/Word), companion tool for Sublyric |
 
 Feel free to open an Issue if you run into problems or have ideas, or fork the repo and submit a Pull Request.
 
