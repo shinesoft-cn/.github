@@ -20,7 +20,7 @@
 
 ## 👋 我们是谁
 
-我们是广州适尔软件（Guangzhou Shiner Software），专注于打造 **韵词字幕**——
+我们是广州适尔软件（Guangzhou Shine Software），专注于打造 **韵词字幕**——
 一款覆盖 **语音转字幕 → 翻译 → 精修 → 卡拉OK 特效 → 导出成片** 完整流程的
 AI 字幕制作软件，让专业剪辑师和普通用户都能轻松上手。
 
@@ -39,7 +39,7 @@ AI 字幕制作软件，让专业剪辑师和普通用户都能轻松上手。
 
 | 仓库 | 说明 |
 | --- | --- |
-| [sublyric-excel-toolkit](https://github.com/ShinerSoftware/sublyric-excel-toolkit) | Excel 字幕整理加载项：格式清洗、朗读校对、导出 SRT/Word，配合韵词字幕使用 |
+| [sublyric-excel-toolkit](https://github.com/ShineSoftware/sublyric-excel-toolkit) | Excel 字幕整理加载项：格式清洗、朗读校对、导出 SRT/Word，配合韵词字幕使用 |
 
 用的过程中有想法或者遇到问题，欢迎在对应仓库的 Issues 里提，也欢迎直接 Fork 改了发 Pull Request。
 
