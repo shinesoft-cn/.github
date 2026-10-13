@@ -41,7 +41,7 @@ Feel free to use them or fork and adapt them:
 
 | Repository | Description |
 | --- | --- |
-| [sublyric-excel-toolkit](https://github.com/ShineSoftware/sublyric-excel-toolkit) | Excel add-in for cleaning up and exporting bilingual subtitles (SRT/Word), companion tool for Sublyric |
+| [sublyric-excel-toolkit](https://github.com/ShineSoftware-cn/sublyric-excel-toolkit) | Excel add-in for cleaning up and exporting bilingual subtitles (SRT/Word), companion tool for Sublyric |
 
 Feel free to open an Issue if you run into problems or have ideas, or fork the repo and submit a Pull Request.
 
