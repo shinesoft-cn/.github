@@ -39,7 +39,7 @@ AI 字幕制作软件，让专业剪辑师和普通用户都能轻松上手。
 
 | 仓库 | 说明 |
 | --- | --- |
-| [sublyric-excel-toolkit](https://github.com/ShineSoftware/sublyric-excel-toolkit) | Excel 字幕整理加载项：格式清洗、朗读校对、导出 SRT/Word，配合韵词字幕使用 |
+| [sublyric-excel-toolkit](https://github.com/ShineSoft-cn/sublyric-excel-toolkit) | Excel 字幕整理加载项：格式清洗、朗读校对、导出 SRT/Word，配合韵词字幕使用 |
 
 用的过程中有想法或者遇到问题，欢迎在对应仓库的 Issues 里提，也欢迎直接 Fork 改了发 Pull Request。
 
